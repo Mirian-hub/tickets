@@ -6,4 +6,4 @@ router.post("/api/users/singout", (req, res) => {
   res.send("current user");
 });
 
-export { router as singoutRouter };
+export { router as signoutRouter };

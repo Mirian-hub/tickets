@@ -6,4 +6,4 @@ router.post("/api/users/singin", (req, res) => {
   res.send("current user");
 });
 
-export { router as singinRouter };
+export { router as signinRouter };
